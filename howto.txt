@@ -1,0 +1,17 @@
+chrome_profile: https://gofile.io/d/ZEjAcC
+QEMU-freeroot:
+https://github.com/BlackCatOfficialytb/QEMU-freeroot/raw/refs/heads/main/vm.sh
+https://github.com/BlackCatOfficialytb/QEMU-freeroot/raw/refs/heads/main/google_firebase_studio/dev.nix
+https://github.com/BlackCatOfficialytb/QEMU-freeroot/raw/refs/heads/main/google_firebase_studio/scripts247idx.zip
+
+command:
+sudo apt install zip unzip p7zip-full p7zip-rar
+sudo apt install python3.12-venv
+sudo apt update && sudo apt install curl wget nano openbox tint2 kitty xvfb firefox git tigervnc-standalone-server
+
+
+
+
+
+tambahan cara lain:
+https://github.com/hopingboyz/vms/raw/refs/heads/main/vm.sh
